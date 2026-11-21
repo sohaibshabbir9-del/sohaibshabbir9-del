@@ -6,6 +6,7 @@ MSc Business Strategy & Entrepreneurship, Cardiff University · Lahore, Pakistan
 </p>
 
 <p align="center">
+<a href="https://www.linkedin.com/in/sohaib-shabbir-56826627b/"><img src="https://img.shields.io/badge/LinkedIn-Sohaib%20Shabbir-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:sohaibshabbir7@gmail.com"><img src="https://img.shields.io/badge/Email-sohaibshabbir7%40gmail.com-0A2540?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Focus-Strategy%20%7C%20Business%20Development%20%7C%20Account%20Management-1F7A4D?style=flat-square" alt="Focus">
 <img src="https://img.shields.io/badge/Work-Remote%20%26%20International-C8A24A?style=flat-square" alt="Remote and international">
@@ -18,6 +19,18 @@ MSc Business Strategy & Entrepreneurship, Cardiff University · Lahore, Pakistan
 I work where strategy meets revenue. Trained in business strategy at Cardiff Business School, I've worked in London and Lahore turning unclear commercial questions into numbers, plans and signed business: pricing, market entry, pipeline design, and the client relationships that keep revenue recurring.
 
 Before my master's I founded and ran **The Little Burma**, a premium Burmese food delivery business, for four years. Since then I have built a B2B sales pipeline from scratch and modelled pricing for a UK packaging manufacturer in a market where input costs moved daily. I care about clear thinking, clean spreadsheets and results that can be measured.
+
+---
+
+### Selected achievements
+
+- **Built a B2B sales pipeline from scratch** at Advo and won retainer business from a healthcare group and a school network within four months
+- **Linked £9.8K of marketing spend to £17K of sales** through revenue, customer-acquisition and break-even models at Print Perfect Boxes (UK)
+- **Founded and ran The Little Burma for four years**, serving more than 1,500 customers
+- **Runner-up, Public Value Hackathon 2023**, Cardiff Business School (Ecotricity Theory of Change, team of five)
+- **Ranked among the top 100 entrepreneurship and business ideas** at Cardiff University
+- **Led a 700-respondent survey and 125 interviews** on labour rights as founder of Khud-Mukhtar-Awam
+- **Completed the Digital Markstrat business simulation** (StratX), Cardiff Business School, 2024
 
 ---
 
@@ -90,4 +103,4 @@ Practical business work, each with the problem, method, analysis, recommendation
 ---
 
 <p align="center"><i>Open to business strategy, business development, account management and commercial operations roles, and to project work with clients in the UK, Europe, US and GCC.</i><br>
-<a href="mailto:sohaibshabbir7@gmail.com">sohaibshabbir7@gmail.com</a></p>
+<a href="mailto:sohaibshabbir7@gmail.com">sohaibshabbir7@gmail.com</a> · <a href="https://www.linkedin.com/in/sohaib-shabbir-56826627b/">LinkedIn</a></p>
